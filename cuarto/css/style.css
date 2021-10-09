@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+}
+
+header{
+    display: flex;
+    height: 4rem;
+}
+
+#menu{
+    width: 80%;
+    background-color: gray;
+    text-align: center;
+}
+
+#login{
+    width: 20%;
+    background-color: aqua;
+}
+
+#logo{
+    background-color: #fff;
+    height:50%
+}
+
+#login-login{
+    background-color:yellow;
+    height:50%
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+li{
+    margin: 1rem 2rem;
+}
+
+section{
+    display: flex;
+}
+
+section div{
+    padding: 1rem;
+}
+
+footer{
+    margin-top: 3rem;
+}
+footer p{
+    text-align: center;
+}
